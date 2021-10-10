@@ -2,9 +2,9 @@
 
 namespace TheUsual\Greet\Tests;
 
+use Orchestra\Testbench\TestCase;
 use TheUsual\Greet\Facades\Greet;
 use TheUsual\Greet\ServiceProvider;
-use Orchestra\Testbench\TestCase;
 
 class GreetTest extends TestCase
 {
