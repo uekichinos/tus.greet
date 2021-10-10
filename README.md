@@ -1,4 +1,4 @@
-# Greet
+# TUS.Greet
 
 [![Run tests](https://github.com/uekichinos/tus.greet/actions/workflows/default.yml/badge.svg)](https://github.com/uekichinos/tus.greet/actions/workflows/default.yml)
 [![StyleCI](https://github.styleci.io/repos/415530368/shield?branch=main)](https://github.styleci.io/repos/415530368?branch=main)
