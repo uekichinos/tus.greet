@@ -1,6 +1,6 @@
 # Greet
 
-[![GitHub Workflow Status](https://github.com/the-usual/greet/workflows/Run%20tests/badge.svg)](https://github.com/the-usual/greet/actions)
+[![Run tests](https://github.com/uekichinos/tus.greet/actions/workflows/default.yml/badge.svg)](https://github.com/uekichinos/tus.greet/actions/workflows/default.yml)
 [![styleci](https://styleci.io/repos/CHANGEME/shield)](https://styleci.io/repos/CHANGEME)
 
 [![Packagist](https://img.shields.io/packagist/v/the-usual/greet.svg)](https://packagist.org/packages/the-usual/greet)
