@@ -15,7 +15,7 @@ Install via composer
 composer require the-usual/greet
 ```
 
-### Publish package assets
+### Publish package assets 
 
 ```bash
 php artisan vendor:publish --provider="TheUsual\Greet\ServiceProvider"
